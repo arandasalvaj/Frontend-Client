@@ -1,0 +1,9 @@
+.progress {
+  font-family: 'Bold', Tahoma, Geneva, Verdana, sans-serif;
+  width: 150px;
+}
+
+.svg {
+  display: block;
+  width: 100%;
+}
